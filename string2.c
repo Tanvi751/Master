@@ -7,7 +7,7 @@ int main()
     int i;
      printf("enter the name:\t");
      scanf("%s",name);
-     printf("Enter the new name:\t");
+     
      for(i=0;i!='\0';i++)
      {
         scanf("%c",newname[i]);
