@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
+{ int no_use;
   int a,rem,reverse=0,temp;
   cout<<"enter the number"<<endl;
   cin>>a;
